@@ -1,6 +1,6 @@
 # cipher_wd2366
 
-A function used for encryption and decryption
+A function to encryption and decryption
 
 ## Installation
 
