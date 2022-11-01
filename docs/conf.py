@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"cipher_wd2366"
+project = u"cipher_wd2366_helen"
 copyright = u"2022, Weiwen Dai"
 author = u"Weiwen Dai"
 

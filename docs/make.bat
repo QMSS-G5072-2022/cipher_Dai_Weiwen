@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=cipher_wd2366
+set SPHINXPROJ=cipher_wd2366_helen
 
 if "%1" == "" goto help
 

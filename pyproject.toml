@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cipher_wd2366"
+name = "cipher_wd2366_helen"
 version = "0.1.0"
-description = "A function to encryption and decryption"
+description = "A function for encryption and decryption"
 authors = ["Weiwen Dai"]
 license = "MIT"
 readme = "README.md"

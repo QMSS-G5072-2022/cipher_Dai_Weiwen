@@ -1,11 +1,11 @@
-# cipher_wd2366
+# cipher_wd2366_helen
 
-A function to encryption and decryption
+A function for encryption and decryption
 
 ## Installation
 
 ```bash
-$ pip install cipher_wd2366
+$ pip install cipher_wd2366_helen
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`cipher_wd2366` was created by Weiwen Dai. It is licensed under the terms of the MIT license.
+`cipher_wd2366_helen` was created by Weiwen Dai. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`cipher_wd2366` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`cipher_wd2366_helen` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
