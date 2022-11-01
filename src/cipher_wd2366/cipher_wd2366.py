@@ -1,7 +1,6 @@
 def cipher(text, shift, encrypt=True):
 
-"""
-    This function is used for Caesar cipher. 
+    """
     The Caesar cipher is one of the simplest and most widely known encryption techniques. In short, each letter is replaced by a letter some fixed number of positions down the alphabet. Apparently, Julius Caesar used it in his private correspondence.
         
     Parameters
@@ -19,8 +18,7 @@ def cipher(text, shift, encrypt=True):
     >>> text = "helen"
     >>> cipher(text = text, shift = 1, encrypt=True)
     ''ifmfo"
-
-"""
+   """
 
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     new_text = ''
